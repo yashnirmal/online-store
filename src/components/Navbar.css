@@ -1,0 +1,19 @@
+.navbar{
+    width: 100vw;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(26, 73, 161);
+}
+
+.cart-link{
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+}
+
+.cart-link:hover{
+    border-bottom: 2px solid white;
+}
